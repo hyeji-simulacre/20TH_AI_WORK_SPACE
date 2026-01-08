@@ -1,0 +1,14 @@
+{
+  "project_name": "My PKM Search",
+  "base_path": "/path/to/your/obsidian/vault",
+  "search_paths": [
+    "20-created",
+    "30-collected"
+  ],
+  "excluded_paths": [
+    "00-system",
+    ".obsidian",
+    "assets"
+  ],
+  "_comment": "base_path를 자신의 옵시디언 볼트 절대경로로 수정하세요"
+}

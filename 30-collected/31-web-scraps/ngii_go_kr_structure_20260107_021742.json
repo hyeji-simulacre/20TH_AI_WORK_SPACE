@@ -1,0 +1,161 @@
+{
+  "url": "https://www.ngii.go.kr/kor/board/list.do?board_code=antique_map&srchCate=A",
+  "timestamp": "2026-01-07T02:17:42.727643",
+  "status": "success",
+  "analysis_method": "static_html",
+  "page_info": {
+    "title": "국토지리정보원 - 고지도컬렉션",
+    "url": "https://www.ngii.go.kr/kor/board/list.do?board_code=antique_map&srchCate=A",
+    "has_changed_url": false
+  },
+  "selectors": {
+    "tabs": [],
+    "cards": [
+      {
+        "selector": "[class*='item']",
+        "count": 14,
+        "sample_text": "",
+        "has_link": false,
+        "has_image": true,
+        "data_attributes": []
+      }
+    ],
+    "links": [
+      {
+        "pattern": "https://www.ngii.go.kr/kor/main.do",
+        "sample_href": "https://www.ngii.go.kr/kor/main.do",
+        "sample_text": "국토교통부 국토지리정보원"
+      },
+      {
+        "pattern": "https://www.facebook.com/newngii/",
+        "sample_href": "https://www.facebook.com/newngii/",
+        "sample_text": ""
+      },
+      {
+        "pattern": "https://www.youtube.com/channel/*?view_as=subscriber",
+        "sample_href": "https://www.youtube.com/channel/UCfDAwZchZ6yXGOsMj8gPfXQ?view_as=subscriber",
+        "sample_text": ""
+      },
+      {
+        "pattern": "https://www.instagram.com/ngii.2021/",
+        "sample_href": "https://www.instagram.com/ngii.2021/",
+        "sample_text": ""
+      },
+      {
+        "pattern": "https://www.ngii.go.kr/member/login.do?redirect=L2tvci9ib2FyZC9saXN0LmRvP2JvYXJkX2NvZGU9YW50aXF1ZV9tYXAmc3JjaENhdGU9QQ==",
+        "sample_href": "https://www.ngii.go.kr/member/login.do?redirect=L2tvci9ib2FyZC9saXN0LmRvP2JvYXJkX2NvZGU9YW50aXF1ZV9tYXAmc3JjaENhdGU9QQ==",
+        "sample_text": "회원들어가기"
+      },
+      {
+        "pattern": "https://www.ngii.go.kr/member/*.do",
+        "sample_href": "https://www.ngii.go.kr/member/join_step0.do",
+        "sample_text": "회원가입"
+      },
+      {
+        "pattern": "https://www.ngii.go.kr/eng/main.do",
+        "sample_href": "https://www.ngii.go.kr/eng/main.do",
+        "sample_text": "ENG"
+      },
+      {
+        "pattern": "https://www.ngii.go.kr/kor/content.do?sq=31",
+        "sample_href": "https://www.ngii.go.kr/kor/content.do?sq=31",
+        "sample_text": "기관소개"
+      },
+      {
+        "pattern": "https://www.ngii.go.kr/kor/content.do?sq=32",
+        "sample_href": "https://www.ngii.go.kr/kor/content.do?sq=32",
+        "sample_text": "인사말"
+      },
+      {
+        "pattern": "https://www.ngii.go.kr/kor/content.do?sq=37",
+        "sample_href": "https://www.ngii.go.kr/kor/content.do?sq=37",
+        "sample_text": "연혁"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "기관소개",
+        "tag": "a",
+        "classes": "mobile_block"
+      },
+      {
+        "text": "사업소개",
+        "tag": "a",
+        "classes": "mobile_block"
+      },
+      {
+        "text": "콘텐츠센터",
+        "tag": "a",
+        "classes": "mobile_block"
+      },
+      {
+        "text": "알림",
+        "tag": "a",
+        "classes": "mobile_block"
+      },
+      {
+        "text": "민원서비스",
+        "tag": "a",
+        "classes": "mobile_block"
+      },
+      {
+        "text": "정보공개",
+        "tag": "a",
+        "classes": "mobile_block"
+      },
+      {
+        "text": "통합검색",
+        "tag": "button",
+        "classes": "btn_search-mn"
+      },
+      {
+        "text": "닫기",
+        "tag": "button",
+        "classes": "btn_close"
+      }
+    ],
+    "forms": [],
+    "tables": [],
+    "lists": [],
+    "images": [],
+    "pagination": [
+      {
+        "selector": "[class*='paging']",
+        "exists": true
+      }
+    ]
+  },
+  "dynamic_features": {
+    "has_infinite_scroll": false,
+    "has_lazy_loading": false,
+    "has_modals": false,
+    "has_tabs": false,
+    "is_spa": false,
+    "spa_framework": {
+      "hasReact": false,
+      "hasVue": false,
+      "hasAngular": false
+    }
+  },
+  "recommended_selectors": [],
+  "errors": [],
+  "robots": {
+    "robots_url": "https://www.ngii.go.kr/robots.txt",
+    "can_fetch": true,
+    "checked": true,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+    "error": ""
+  },
+  "discovered_feeds": [],
+  "http": {
+    "final_url": "https://www.ngii.go.kr/kor/board/list.do?board_code=antique_map&srchCate=A",
+    "status_code": 200,
+    "content_type": "text/html;charset=UTF-8"
+  },
+  "static_probe": {
+    "text_length": 9680,
+    "script_count": 14,
+    "needs_playwright": false,
+    "reason": ""
+  }
+}

@@ -1,0 +1,84 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+.python-version
+.Python
+__pycache__/
+**/*__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+venv/
+.venv/
+**/venv/
+**/.venv/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.claude/skills/*/scripts/.env
+.claude/skills/*/scripts/venv/
+.claude/skills/*/scripts/*.pyc
+.claude/skills/*/scripts/__pycache__/
+scripts/*_local.sh
+
+# Node / Javascript
+node_modules/
+.node_modules/
+pnpm-lock.yaml
+
+# Environment & Credentials
+.env
+.env.local
+.env.*
+.env.*.local
+*.env
+!.env.example
+!.env.template
+token.json
+credentials.json
+client_secret*.json
+gha-creds-*.json
+firecrawl_config.sh
+*api_key*
+*secret*
+*_API_KEY.mcp.json
+
+# IDE
+.vscode/
+.idea/
+
+# Tools & Apps
+.obsidian/
+.trash/
+.mcp.json
+.plugins/
+.notion_sync_map.json
+.pkm-search/
+
+# Claude Code (로컬 설정)
+.claude/settings.local.json
+
+# Files & Data
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+**/*.db
+
+# Temporary
+.tmp/
+.temp/
+temp/
+90_temp/

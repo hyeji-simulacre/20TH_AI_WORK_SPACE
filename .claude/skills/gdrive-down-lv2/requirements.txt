@@ -1,0 +1,10 @@
+# Google Drive Skill (Lv2 EDU) - Requirements
+# Python 3.12.10+
+
+# Google API 클라이언트
+google-api-python-client==2.187.0
+google-auth-httplib2==0.3.0
+google-auth-oauthlib==1.2.3
+
+# 환경 변수 관리
+python-dotenv==1.2.1

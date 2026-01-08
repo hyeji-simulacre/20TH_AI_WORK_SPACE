@@ -1,0 +1,5 @@
+# PKM Semantic Search - Dependencies
+# Gemini File Search API 연동에 필요한 패키지
+
+requests>=2.28.0
+python-dotenv>=1.0.0

@@ -1,0 +1,2003 @@
+{
+  "meta": {
+    "id": "B23W1gRT9eY",
+    "language": "English (auto-generated)",
+    "language_code": "en",
+    "is_generated": true,
+    "is_translatable": true,
+    "translation_languages": [
+      {
+        "language": "Arabic",
+        "language_code": "ar"
+      },
+      {
+        "language": "Chinese (Traditional)",
+        "language_code": "zh-Hant"
+      },
+      {
+        "language": "Dutch",
+        "language_code": "nl"
+      },
+      {
+        "language": "French",
+        "language_code": "fr"
+      },
+      {
+        "language": "German",
+        "language_code": "de"
+      },
+      {
+        "language": "Hindi",
+        "language_code": "hi"
+      },
+      {
+        "language": "Indonesian",
+        "language_code": "id"
+      },
+      {
+        "language": "Italian",
+        "language_code": "it"
+      },
+      {
+        "language": "Japanese",
+        "language_code": "ja"
+      },
+      {
+        "language": "Korean",
+        "language_code": "ko"
+      },
+      {
+        "language": "Portuguese",
+        "language_code": "pt"
+      },
+      {
+        "language": "Russian",
+        "language_code": "ru"
+      },
+      {
+        "language": "Spanish",
+        "language_code": "es"
+      },
+      {
+        "language": "Thai",
+        "language_code": "th"
+      },
+      {
+        "language": "Ukrainian",
+        "language_code": "uk"
+      },
+      {
+        "language": "Vietnamese",
+        "language_code": "vi"
+      }
+    ],
+    "available_transcripts": [
+      {
+        "language": "English (auto-generated)",
+        "language_code": "en",
+        "is_generated": true,
+        "is_translatable": true
+      }
+    ],
+    "source": "youtube-transcript-api",
+    "extracted_at": "2026-01-07T02:14:39.159242",
+    "transcript_count": 383
+  },
+  "transcript": [
+    {
+      "text": "Here are the six AI trends that will",
+      "start": 0.0,
+      "duration": 4.16
+    },
+    {
+      "text": "matter most in 2026. This list is based",
+      "start": 1.6,
+      "duration": 4.239
+    },
+    {
+      "text": "on daily research and reports from",
+      "start": 4.16,
+      "duration": 3.679
+    },
+    {
+      "text": "institutions like McKenzie, OpenAI,",
+      "start": 5.839,
+      "duration": 2.561
+    },
+    {
+      "text": "Stanford, [music]",
+      "start": 7.839,
+      "duration": 2.401
+    },
+    {
+      "text": "and from analysts who are much more",
+      "start": 8.4,
+      "duration": 3.84
+    },
+    {
+      "text": "knowledgeable than myself. In other",
+      "start": 10.24,
+      "duration": 3.84
+    },
+    {
+      "text": "words, don't blame me if they get it",
+      "start": 12.24,
+      "duration": 3.439
+    },
+    {
+      "text": "wrong. For each trend, I'll first start",
+      "start": 14.08,
+      "duration": 3.279
+    },
+    {
+      "text": "with a big picture, then move on to the",
+      "start": 15.679,
+      "duration": 3.52
+    },
+    {
+      "text": "actionable takeaways so that by the end,",
+      "start": 17.359,
+      "duration": 3.92
+    },
+    {
+      "text": "you have a clear sense of where AI is",
+      "start": 19.199,
+      "duration": 4.08
+    },
+    {
+      "text": "heading and what to [music] do about it.",
+      "start": 21.279,
+      "duration": 3.601
+    },
+    {
+      "text": "Let's get started. Kicking things off",
+      "start": 23.279,
+      "duration": 3.121
+    },
+    {
+      "text": "with trend number one. Models don't",
+      "start": 24.88,
+      "duration": 3.28
+    },
+    {
+      "text": "matter much anymore. For the past few",
+      "start": 26.4,
+      "duration": 3.44
+    },
+    {
+      "text": "years, every new model released sparked",
+      "start": 28.16,
+      "duration": 4.0
+    },
+    {
+      "text": "debate about the best AI, and for good",
+      "start": 29.84,
+      "duration": 3.84
+    },
+    {
+      "text": "reason. The difference in quality",
+      "start": 32.16,
+      "duration": 4.399
+    },
+    {
+      "text": "between models was significant. In 2026,",
+      "start": 33.68,
+      "duration": 4.64
+    },
+    {
+      "text": "though, that choice is going to matter a",
+      "start": 36.559,
+      "duration": 3.68
+    },
+    {
+      "text": "lot less. Taking a look at the data,",
+      "start": 38.32,
+      "duration": 3.759
+    },
+    {
+      "text": "this graph from artificial analysis",
+      "start": 40.239,
+      "duration": 4.0
+    },
+    {
+      "text": "shows how the major AI models have",
+      "start": 42.079,
+      "duration": 4.48
+    },
+    {
+      "text": "improved over time. Notice the",
+      "start": 44.239,
+      "duration": 4.401
+    },
+    {
+      "text": "clustering in the top right corner. The",
+      "start": 46.559,
+      "duration": 3.921
+    },
+    {
+      "text": "models are still getting smarter in",
+      "start": 48.64,
+      "duration": 4.32
+    },
+    {
+      "text": "absolute terms, but the gap between them",
+      "start": 50.48,
+      "duration": 4.96
+    },
+    {
+      "text": "keeps shrinking, meaning no single model",
+      "start": 52.96,
+      "duration": 4.56
+    },
+    {
+      "text": "has a clear lead anymore. A Stanford",
+      "start": 55.44,
+      "duration": 4.24
+    },
+    {
+      "text": "study confirms this from another angle",
+      "start": 57.52,
+      "duration": 4.16
+    },
+    {
+      "text": "by comparing closed models like Gemini",
+      "start": 59.68,
+      "duration": 4.4
+    },
+    {
+      "text": "and Chachi BT against openw weight",
+      "start": 61.68,
+      "duration": 4.56
+    },
+    {
+      "text": "alternatives like Deep Seek and Llama.",
+      "start": 64.08,
+      "duration": 4.079
+    },
+    {
+      "text": "The trend is pretty clear. Models that",
+      "start": 66.24,
+      "duration": 3.6
+    },
+    {
+      "text": "are free to run are now approaching",
+      "start": 68.159,
+      "duration": 4.401
+    },
+    {
+      "text": "frontier performance and performance is",
+      "start": 69.84,
+      "duration": 5.279
+    },
+    {
+      "text": "only half the story. The cost matters as",
+      "start": 72.56,
+      "duration": 5.36
+    },
+    {
+      "text": "well. Data from Epoch AI shows that",
+      "start": 75.119,
+      "duration": 4.64
+    },
+    {
+      "text": "using powerful models has become",
+      "start": 77.92,
+      "duration": 3.839
+    },
+    {
+      "text": "drastically cheaper and one of the",
+      "start": 79.759,
+      "duration": 4.161
+    },
+    {
+      "text": "reasons is because hardware is getting",
+      "start": 81.759,
+      "duration": 4.0
+    },
+    {
+      "text": "more efficient. For perspective,",
+      "start": 83.92,
+      "duration": 5.76
+    },
+    {
+      "text": "Nvidia's latest chips uses 105,000",
+      "start": 85.759,
+      "duration": 6.481
+    },
+    {
+      "text": "times less energy per token than they",
+      "start": 89.68,
+      "duration": 5.119
+    },
+    {
+      "text": "did 10 years ago. So, what does this",
+      "start": 92.24,
+      "duration": 4.4
+    },
+    {
+      "text": "mean for us? In plain English, when",
+      "start": 94.799,
+      "duration": 3.68
+    },
+    {
+      "text": "things get cheaper and more similar,",
+      "start": 96.64,
+      "duration": 3.839
+    },
+    {
+      "text": "they become more like commodities. You",
+      "start": 98.479,
+      "duration": 3.841
+    },
+    {
+      "text": "don't ask who provides the best",
+      "start": 100.479,
+      "duration": 4.0
+    },
+    {
+      "text": "electricity, right? You ask what can I",
+      "start": 102.32,
+      "duration": 4.159
+    },
+    {
+      "text": "use the electricity for? And because of",
+      "start": 104.479,
+      "duration": 3.92
+    },
+    {
+      "text": "this, the competition is shifting from",
+      "start": 106.479,
+      "duration": 4.161
+    },
+    {
+      "text": "the AI model itself to the way we",
+      "start": 108.399,
+      "duration": 5.281
+    },
+    {
+      "text": "actually use it, aka the app layer. Just",
+      "start": 110.64,
+      "duration": 4.64
+    },
+    {
+      "text": "think about cars. Once the engine",
+      "start": 113.68,
+      "duration": 3.6
+    },
+    {
+      "text": "becomes standardized, the focus shifts",
+      "start": 115.28,
+      "duration": 3.92
+    },
+    {
+      "text": "to the features and the design. This",
+      "start": 117.28,
+      "duration": 3.76
+    },
+    {
+      "text": "creates an interesting dynamic for each",
+      "start": 119.2,
+      "duration": 4.239
+    },
+    {
+      "text": "of the frontier AI labs. For example,",
+      "start": 121.04,
+      "duration": 4.32
+    },
+    {
+      "text": "OpenAI has a mind share advantage",
+      "start": 123.439,
+      "duration": 4.241
+    },
+    {
+      "text": "because ChachiBT is synonymous with AI",
+      "start": 125.36,
+      "duration": 4.879
+    },
+    {
+      "text": "and has the largest market share. Google",
+      "start": 127.68,
+      "duration": 4.24
+    },
+    {
+      "text": "has a distribution advantage because",
+      "start": 130.239,
+      "duration": 3.841
+    },
+    {
+      "text": "Gemini is already embedded across its",
+      "start": 131.92,
+      "duration": 3.92
+    },
+    {
+      "text": "existing products like search, Gmail,",
+      "start": 134.08,
+      "duration": 3.84
+    },
+    {
+      "text": "and Android. Anthropic has a",
+      "start": 135.84,
+      "duration": 4.0
+    },
+    {
+      "text": "specialization advantage given its loyal",
+      "start": 137.92,
+      "duration": 3.44
+    },
+    {
+      "text": "customer base in developers and",
+      "start": 139.84,
+      "duration": 3.36
+    },
+    {
+      "text": "enterprise customers. Notice what's",
+      "start": 141.36,
+      "duration": 3.44
+    },
+    {
+      "text": "missing from that list. None of them are",
+      "start": 143.2,
+      "duration": 3.84
+    },
+    {
+      "text": "winning because they have the best AI.",
+      "start": 144.8,
+      "duration": 4.4
+    },
+    {
+      "text": "The competition has moved beyond raw",
+      "start": 147.04,
+      "duration": 4.64
+    },
+    {
+      "text": "power to reach, integration, and trust.",
+      "start": 149.2,
+      "duration": 4.24
+    },
+    {
+      "text": "The practical takeaway here is to stop",
+      "start": 151.68,
+      "duration": 3.6
+    },
+    {
+      "text": "obsessing over technical scores and",
+      "start": 153.44,
+      "duration": 4.4
+    },
+    {
+      "text": "instead focus on how they fit into your",
+      "start": 155.28,
+      "duration": 4.4
+    },
+    {
+      "text": "actual work. For example, if you live in",
+      "start": 157.84,
+      "duration": 3.44
+    },
+    {
+      "text": "Google Workspace, Gemini's deep",
+      "start": 159.68,
+      "duration": 3.76
+    },
+    {
+      "text": "integration with all of Google's apps",
+      "start": 161.28,
+      "duration": 4.64
+    },
+    {
+      "text": "gives it an edge that has nothing to do",
+      "start": 163.44,
+      "duration": 4.56
+    },
+    {
+      "text": "with raw intelligence. By the way, I'll",
+      "start": 165.92,
+      "duration": 3.44
+    },
+    {
+      "text": "link all the sources I mentioned today",
+      "start": 168.0,
+      "duration": 3.12
+    },
+    {
+      "text": "down below so you can check them out for",
+      "start": 169.36,
+      "duration": 4.239
+    },
+    {
+      "text": "yourself. Trend number two, 2026 is the",
+      "start": 171.12,
+      "duration": 5.759
+    },
+    {
+      "text": "year of AI workflows, not AI agents. If",
+      "start": 173.599,
+      "duration": 4.401
+    },
+    {
+      "text": "you spend any time on Twitter or",
+      "start": 176.879,
+      "duration": 2.561
+    },
+    {
+      "text": "LinkedIn, you've probably noticed the",
+      "start": 178.0,
+      "duration": 3.36
+    },
+    {
+      "text": "industry jump from chat bots straight to",
+      "start": 179.44,
+      "duration": 4.24
+    },
+    {
+      "text": "autonomous agents and completely skip",
+      "start": 181.36,
+      "duration": 4.239
+    },
+    {
+      "text": "the middle step where the actual value",
+      "start": 183.68,
+      "duration": 5.04
+    },
+    {
+      "text": "is being unlocked, AI workflows. And the",
+      "start": 185.599,
+      "duration": 4.401
+    },
+    {
+      "text": "numbers prove this. According to",
+      "start": 188.72,
+      "duration": 3.28
+    },
+    {
+      "text": "McKenzie, no more than 10% of",
+      "start": 190.0,
+      "duration": 4.08
+    },
+    {
+      "text": "organizations in any given business",
+      "start": 192.0,
+      "duration": 5.2
+    },
+    {
+      "text": "function report scaling true agents.",
+      "start": 194.08,
+      "duration": 5.28
+    },
+    {
+      "text": "Meanwhile, we see from OpenAI's",
+      "start": 197.2,
+      "duration": 5.36
+    },
+    {
+      "text": "enterprise report that 20% of enterprise",
+      "start": 199.36,
+      "duration": 5.2
+    },
+    {
+      "text": "AI use is already happening through",
+      "start": 202.56,
+      "duration": 4.64
+    },
+    {
+      "text": "workflow specific tools like custom GBTs",
+      "start": 204.56,
+      "duration": 3.759
+    },
+    {
+      "text": "and projects. [music]",
+      "start": 207.2,
+      "duration": 2.959
+    },
+    {
+      "text": "This gap tells you the market has voted",
+      "start": 208.319,
+      "duration": 4.241
+    },
+    {
+      "text": "for workflows, not autonomy. And we're",
+      "start": 210.159,
+      "duration": 4.321
+    },
+    {
+      "text": "seeing this play out across industries.",
+      "start": 212.56,
+      "duration": 3.679
+    },
+    {
+      "text": "A pharma company redesigned their",
+      "start": 214.48,
+      "duration": 4.319
+    },
+    {
+      "text": "clinical study workflow by using AI to",
+      "start": 216.239,
+      "duration": 5.441
+    },
+    {
+      "text": "analyze raw clinical data while humans",
+      "start": 218.799,
+      "duration": 5.921
+    },
+    {
+      "text": "focus on validation leading to 60% less",
+      "start": 221.68,
+      "duration": 6.32
+    },
+    {
+      "text": "prep time and 50% fewer errors. A",
+      "start": 224.72,
+      "duration": 4.96
+    },
+    {
+      "text": "utility company redesigned their call",
+      "start": 228.0,
+      "duration": 3.28
+    },
+    {
+      "text": "center workflow where AI handles",
+      "start": 229.68,
+      "duration": 3.76
+    },
+    {
+      "text": "authentication and routine inquiries",
+      "start": 231.28,
+      "duration": 4.64
+    },
+    {
+      "text": "cutting cost per call by 50% while",
+      "start": 233.44,
+      "duration": 5.28
+    },
+    {
+      "text": "increasing satisfaction scores by 6%. A",
+      "start": 235.92,
+      "duration": 4.56
+    },
+    {
+      "text": "bank redesigned their code migration",
+      "start": 238.72,
+      "duration": 4.159
+    },
+    {
+      "text": "workflow where AI scans legacy code and",
+      "start": 240.48,
+      "duration": 3.759
+    },
+    {
+      "text": "generates updated versions for",
+      "start": 242.879,
+      "duration": 3.36
+    },
+    {
+      "text": "developers to verify, cutting the",
+      "start": 244.239,
+      "duration": 4.481
+    },
+    {
+      "text": "required human hours by 50%. Andre",
+      "start": 246.239,
+      "duration": 4.56
+    },
+    {
+      "text": "Kaparthi sums it up perfectly, calling",
+      "start": 248.72,
+      "duration": 4.159
+    },
+    {
+      "text": "everything an agent creates unrealistic",
+      "start": 250.799,
+      "duration": 4.16
+    },
+    {
+      "text": "expectations and confusion. Fully",
+      "start": 252.879,
+      "duration": 4.08
+    },
+    {
+      "text": "autonomous AI still faces massive",
+      "start": 254.959,
+      "duration": 4.0
+    },
+    {
+      "text": "hurdles like data security. So, we're",
+      "start": 256.959,
+      "duration": 4.881
+    },
+    {
+      "text": "looking at the decade of agents, not the",
+      "start": 258.959,
+      "duration": 3.441
+    },
+    {
+      "text": "year.",
+      "start": 261.84,
+      "duration": 2.079
+    },
+    {
+      "text": ">> I was triggered by that because I feel",
+      "start": 262.4,
+      "duration": 2.96
+    },
+    {
+      "text": "like there's some overpredictions going",
+      "start": 263.919,
+      "duration": 4.081
+    },
+    {
+      "text": "on in the industry. And uh in my mind",
+      "start": 265.36,
+      "duration": 4.48
+    },
+    {
+      "text": "this is really a lot more accurately",
+      "start": 268.0,
+      "duration": 3.36
+    },
+    {
+      "text": "described as the decade of agents.",
+      "start": 269.84,
+      "duration": 3.04
+    },
+    {
+      "text": ">> Meanwhile, by integrating something like",
+      "start": 271.36,
+      "duration": 4.559
+    },
+    {
+      "text": "custom GBTS into an existing workflow,",
+      "start": 272.88,
+      "duration": 6.08
+    },
+    {
+      "text": "we've essentially created an agent light",
+      "start": 275.919,
+      "duration": 5.121
+    },
+    {
+      "text": "which is much more reliable at producing",
+      "start": 278.96,
+      "duration": 4.32
+    },
+    {
+      "text": "consistent results. To really ram this",
+      "start": 281.04,
+      "duration": 4.08
+    },
+    {
+      "text": "point home, McKenzie predicts that",
+      "start": 283.28,
+      "duration": 4.24
+    },
+    {
+      "text": "redesigning workflows will unlock nearly",
+      "start": 285.12,
+      "duration": 5.76
+    },
+    {
+      "text": "$3 trillion in economic value by 2030.",
+      "start": 287.52,
+      "duration": 4.64
+    },
+    {
+      "text": "And more importantly, these",
+      "start": 290.88,
+      "duration": 2.879
+    },
+    {
+      "text": "organizations will have the muscle",
+      "start": 292.16,
+      "duration": 4.08
+    },
+    {
+      "text": "memory to adopt true AI agents faster",
+      "start": 293.759,
+      "duration": 4.72
+    },
+    {
+      "text": "when they finally arrive. So here's your",
+      "start": 296.24,
+      "duration": 4.239
+    },
+    {
+      "text": "practical takeaway. Your goal for 2026",
+      "start": 298.479,
+      "duration": 4.241
+    },
+    {
+      "text": "is to turn your successful prompts into",
+      "start": 300.479,
+      "duration": 3.921
+    },
+    {
+      "text": "repeatable workflows. And this is",
+      "start": 302.72,
+      "duration": 2.8
+    },
+    {
+      "text": "something I've talked about in other",
+      "start": 304.4,
+      "duration": 3.359
+    },
+    {
+      "text": "videos. Pick one recurring deliverable",
+      "start": 305.52,
+      "duration": 4.32
+    },
+    {
+      "text": "you produce, like a weekly report. Break",
+      "start": 307.759,
+      "duration": 4.561
+    },
+    {
+      "text": "it into steps and let AI handle the",
+      "start": 309.84,
+      "duration": 4.56
+    },
+    {
+      "text": "predictable parts. Keep yourself in the",
+      "start": 312.32,
+      "duration": 4.08
+    },
+    {
+      "text": "loop for the final judgment calls. That",
+      "start": 314.4,
+      "duration": 3.68
+    },
+    {
+      "text": "structure is what creates true",
+      "start": 316.4,
+      "duration": 3.519
+    },
+    {
+      "text": "reliability. Side note, I'm actually",
+      "start": 318.08,
+      "duration": 3.679
+    },
+    {
+      "text": "developing an entire course around",
+      "start": 319.919,
+      "duration": 4.081
+    },
+    {
+      "text": "evergreen AI skills to give you a future",
+      "start": 321.759,
+      "duration": 3.761
+    },
+    {
+      "text": "proof framework that never becomes",
+      "start": 324.0,
+      "duration": 2.96
+    },
+    {
+      "text": "obsolete. If you're interested in",
+      "start": 325.52,
+      "duration": 3.36
+    },
+    {
+      "text": "learning a practical and timeless AI",
+      "start": 326.96,
+      "duration": 4.0
+    },
+    {
+      "text": "system, click the link below to join the",
+      "start": 328.88,
+      "duration": 3.84
+    },
+    {
+      "text": "wait list. Trend number three, the end",
+      "start": 330.96,
+      "duration": 3.519
+    },
+    {
+      "text": "of the technical divide. When I was at",
+      "start": 332.72,
+      "duration": 3.52
+    },
+    {
+      "text": "Google, non-technical teams like sales",
+      "start": 334.479,
+      "duration": 3.601
+    },
+    {
+      "text": "and marketing had to rely on specialist",
+      "start": 336.24,
+      "duration": 3.679
+    },
+    {
+      "text": "teams to help them build stuff like",
+      "start": 338.08,
+      "duration": 3.44
+    },
+    {
+      "text": "dashboards. And I'm not someone who",
+      "start": 339.919,
+      "duration": 3.921
+    },
+    {
+      "text": "holds grudges, but a lot of my requests",
+      "start": 341.52,
+      "duration": 4.16
+    },
+    {
+      "text": "were depprioritized because they were",
+      "start": 343.84,
+      "duration": 4.24
+    },
+    {
+      "text": "too low impact and my clients weren't",
+      "start": 345.68,
+      "duration": 4.56
+    },
+    {
+      "text": "key accounts, but no, I'm over it.",
+      "start": 348.08,
+      "duration": 4.32
+    },
+    {
+      "text": "Anyways, in 2026, that's going to happen",
+      "start": 350.24,
+      "duration": 4.399
+    },
+    {
+      "text": "a lot less. The numbers backing this are",
+      "start": 352.4,
+      "duration": 3.84
+    },
+    {
+      "text": "honestly kind of insane. According to",
+      "start": 354.639,
+      "duration": 4.241
+    },
+    {
+      "text": "Open Eyes latest report, 75% of",
+      "start": 356.24,
+      "duration": 4.799
+    },
+    {
+      "text": "enterprise users reported using AI to",
+      "start": 358.88,
+      "duration": 4.64
+    },
+    {
+      "text": "complete tasks they literally could not",
+      "start": 361.039,
+      "duration": 4.401
+    },
+    {
+      "text": "do before. Not just doing old tasks",
+      "start": 363.52,
+      "duration": 4.32
+    },
+    {
+      "text": "faster, they're doing entirely new",
+      "start": 365.44,
+      "duration": 4.4
+    },
+    {
+      "text": "things. For example, coding related",
+      "start": 367.84,
+      "duration": 4.0
+    },
+    {
+      "text": "messages from non-technical employees",
+      "start": 369.84,
+      "duration": 4.96
+    },
+    {
+      "text": "grew 36% in just 6 months. These are",
+      "start": 371.84,
+      "duration": 4.72
+    },
+    {
+      "text": "salespeople, marketers, and operations",
+      "start": 374.8,
+      "duration": 3.679
+    },
+    {
+      "text": "managers writing scripts, automating",
+      "start": 376.56,
+      "duration": 3.68
+    },
+    {
+      "text": "spreadsheets, and building internal",
+      "start": 378.479,
+      "duration": 4.641
+    },
+    {
+      "text": "tools. A study from MIT confirms this.",
+      "start": 380.24,
+      "duration": 5.04
+    },
+    {
+      "text": "AI acts as an equalizer,",
+      "start": 383.12,
+      "duration": 3.919
+    },
+    {
+      "text": "disproportionately helping workers with",
+      "start": 385.28,
+      "duration": 3.759
+    },
+    {
+      "text": "lower technical skills close the",
+      "start": 387.039,
+      "duration": 4.081
+    },
+    {
+      "text": "performance gap with [music] experts.",
+      "start": 389.039,
+      "duration": 3.6
+    },
+    {
+      "text": "Here's what all this means for your",
+      "start": 391.12,
+      "duration": 3.28
+    },
+    {
+      "text": "career. If your value is purely",
+      "start": 392.639,
+      "duration": 3.761
+    },
+    {
+      "text": "technical, aka you're the dashboard",
+      "start": 394.4,
+      "duration": 4.0
+    },
+    {
+      "text": "person, then your competitive advantage",
+      "start": 396.4,
+      "duration": 3.44
+    },
+    {
+      "text": "is shrinking because the marketing",
+      "start": 398.4,
+      "duration": 3.2
+    },
+    {
+      "text": "manager who used to wait in your queue",
+      "start": 399.84,
+      "duration": 3.76
+    },
+    {
+      "text": "can now do it themselves. [music] But if",
+      "start": 401.6,
+      "duration": 3.68
+    },
+    {
+      "text": "you are that marketing manager or the",
+      "start": 403.6,
+      "duration": 3.599
+    },
+    {
+      "text": "salesperson who deeply understands their",
+      "start": 405.28,
+      "duration": 3.359
+    },
+    {
+      "text": "clients, then this is the biggest",
+      "start": 407.199,
+      "duration": 3.361
+    },
+    {
+      "text": "opportunity of your career because the",
+      "start": 408.639,
+      "duration": 3.521
+    },
+    {
+      "text": "technical barrier that stood between",
+      "start": 410.56,
+      "duration": 4.4
+    },
+    {
+      "text": "your expertise and your execution is now",
+      "start": 412.16,
+      "duration": 4.56
+    },
+    {
+      "text": "gone. Here's your practical takeaway.",
+      "start": 414.96,
+      "duration": 4.48
+    },
+    {
+      "text": "Attempt one impossible task this month.",
+      "start": 416.72,
+      "duration": 4.479
+    },
+    {
+      "text": "Identify a technical project you usually",
+      "start": 419.44,
+      "duration": 3.36
+    },
+    {
+      "text": "outsource like building a dashboard,",
+      "start": 421.199,
+      "duration": 3.601
+    },
+    {
+      "text": "cleaning a messy data set, or automating",
+      "start": 422.8,
+      "duration": 4.32
+    },
+    {
+      "text": "a report and try doing it yourself using",
+      "start": 424.8,
+      "duration": 4.32
+    },
+    {
+      "text": "Gemini Cloud or Cashibbt. You'll be",
+      "start": 427.12,
+      "duration": 4.079
+    },
+    {
+      "text": "surprised by what you can now pull off",
+      "start": 429.12,
+      "duration": 3.84
+    },
+    {
+      "text": "alone. Moving on to trend number four,",
+      "start": 431.199,
+      "duration": 3.921
+    },
+    {
+      "text": "from prompting to context. One of my",
+      "start": 432.96,
+      "duration": 3.84
+    },
+    {
+      "text": "most popular videos is this one teaching",
+      "start": 435.12,
+      "duration": 3.199
+    },
+    {
+      "text": "you how to prompt because as we all",
+      "start": 436.8,
+      "duration": 3.36
+    },
+    {
+      "text": "know, if we don't phrase our request",
+      "start": 438.319,
+      "duration": 3.761
+    },
+    {
+      "text": "well, we get a bad result from AI.",
+      "start": 440.16,
+      "duration": 3.36
+    },
+    {
+      "text": "Unfortunately for me, that video is",
+      "start": 442.08,
+      "duration": 3.44
+    },
+    {
+      "text": "going to matter a lot less in 2026",
+      "start": 443.52,
+      "duration": 3.84
+    },
+    {
+      "text": "because new models have gotten so much",
+      "start": 445.52,
+      "duration": 3.6
+    },
+    {
+      "text": "better at understanding vague",
+      "start": 447.36,
+      "duration": 3.76
+    },
+    {
+      "text": "instructions. However, they still have",
+      "start": 449.12,
+      "duration": 4.0
+    },
+    {
+      "text": "one massive weakness I call the fact",
+      "start": 451.12,
+      "duration": 3.84
+    },
+    {
+      "text": "gap. While models know almost everything",
+      "start": 453.12,
+      "duration": 3.519
+    },
+    {
+      "text": "on the public internet from Shakespeare",
+      "start": 454.96,
+      "duration": 4.079
+    },
+    {
+      "text": "to Python code, they know nothing about",
+      "start": 456.639,
+      "duration": 4.881
+    },
+    {
+      "text": "your Q3 goals, your brand guidelines, or",
+      "start": 459.039,
+      "duration": 4.481
+    },
+    {
+      "text": "that email your boss sent yesterday.",
+      "start": 461.52,
+      "duration": 3.84
+    },
+    {
+      "text": "It's like having a brilliant employee",
+      "start": 463.52,
+      "duration": 3.679
+    },
+    {
+      "text": "who technically knows how to complete",
+      "start": 465.36,
+      "duration": 4.08
+    },
+    {
+      "text": "tasks, but isn't allowed to look at any",
+      "start": 467.199,
+      "duration": 4.0
+    },
+    {
+      "text": "company files. they're still going to",
+      "start": 469.44,
+      "duration": 4.24
+    },
+    {
+      "text": "fail, right? Because they lack context.",
+      "start": 471.199,
+      "duration": 3.601
+    },
+    {
+      "text": "At least that's what I told my boss",
+      "start": 473.68,
+      "duration": 2.639
+    },
+    {
+      "text": "during my first internship. It's the",
+      "start": 474.8,
+      "duration": 3.839
+    },
+    {
+      "text": "exact same thing with AI. The focus has",
+      "start": 476.319,
+      "duration": 4.88
+    },
+    {
+      "text": "shifted from how we ask the wording to",
+      "start": 478.639,
+      "duration": 5.041
+    },
+    {
+      "text": "what we give it, the context. And this",
+      "start": 481.199,
+      "duration": 4.081
+    },
+    {
+      "text": "explains the platform wars we're seeing",
+      "start": 483.68,
+      "duration": 3.919
+    },
+    {
+      "text": "right now. Google, Microsoft, and others",
+      "start": 485.28,
+      "duration": 4.319
+    },
+    {
+      "text": "are racing to embed AI into their",
+      "start": 487.599,
+      "duration": 3.521
+    },
+    {
+      "text": "productivity suites because whoever",
+      "start": 489.599,
+      "duration": 3.521
+    },
+    {
+      "text": "holds your context, your emails, your",
+      "start": 491.12,
+      "duration": 4.0
+    },
+    {
+      "text": "docs, your calendar, holds your",
+      "start": 493.12,
+      "duration": 4.079
+    },
+    {
+      "text": "attention. This is also how they'll trap",
+      "start": 495.12,
+      "duration": 4.32
+    },
+    {
+      "text": "you with platform lockin. The more",
+      "start": 497.199,
+      "duration": 4.321
+    },
+    {
+      "text": "context you build up in one ecosystem,",
+      "start": 499.44,
+      "duration": 4.159
+    },
+    {
+      "text": "the smarter the AI is for you and the",
+      "start": 501.52,
+      "duration": 4.0
+    },
+    {
+      "text": "harder it becomes to switch. There are",
+      "start": 503.599,
+      "duration": 3.361
+    },
+    {
+      "text": "two practical takeaways here and the",
+      "start": 505.52,
+      "duration": 2.88
+    },
+    {
+      "text": "non-productivity people are going to",
+      "start": 506.96,
+      "duration": 3.519
+    },
+    {
+      "text": "hate this. First, file management is no",
+      "start": 508.4,
+      "duration": 4.079
+    },
+    {
+      "text": "longer optional. To get value from AI,",
+      "start": 510.479,
+      "duration": 3.521
+    },
+    {
+      "text": "you need some sort of system to keep",
+      "start": 512.479,
+      "duration": 3.761
+    },
+    {
+      "text": "your files organized and clearly named.",
+      "start": 514.0,
+      "duration": 4.08
+    },
+    {
+      "text": "If your work is scattered in random,",
+      "start": 516.24,
+      "duration": 4.479
+    },
+    {
+      "text": "unnamed folders, you can't point the AI",
+      "start": 518.08,
+      "duration": 4.399
+    },
+    {
+      "text": "to it. Second, audit where your",
+      "start": 520.719,
+      "duration": 3.68
+    },
+    {
+      "text": "information lives. If it's spread across",
+      "start": 522.479,
+      "duration": 3.601
+    },
+    {
+      "text": "three or four different platforms, you",
+      "start": 524.399,
+      "duration": 3.361
+    },
+    {
+      "text": "need to consolidate. If your resume",
+      "start": 526.08,
+      "duration": 3.12
+    },
+    {
+      "text": "lives in Google Drive, but the job",
+      "start": 527.76,
+      "duration": 2.8
+    },
+    {
+      "text": "description and interview notes are",
+      "start": 529.2,
+      "duration": 3.84
+    },
+    {
+      "text": "stored in Notion, neither Gemini nor",
+      "start": 530.56,
+      "duration": 4.8
+    },
+    {
+      "text": "Notion AI can help with interview prep,",
+      "start": 533.04,
+      "duration": 4.479
+    },
+    {
+      "text": "you end up doing the synthesis manually,",
+      "start": 535.36,
+      "duration": 4.159
+    },
+    {
+      "text": "which leads to more friction and defeats",
+      "start": 537.519,
+      "duration": 3.921
+    },
+    {
+      "text": "the whole purpose. So, as a rule of",
+      "start": 539.519,
+      "duration": 4.241
+    },
+    {
+      "text": "thumb, prompting still matters, but it's",
+      "start": 541.44,
+      "duration": 4.32
+    },
+    {
+      "text": "more important to ask yourself, does the",
+      "start": 543.76,
+      "duration": 4.96
+    },
+    {
+      "text": "AI have the files it needs to know what",
+      "start": 545.76,
+      "duration": 4.56
+    },
+    {
+      "text": "I'm talking about? Trend number five,",
+      "start": 548.72,
+      "duration": 3.52
+    },
+    {
+      "text": "advertising is coming to chat bots, and",
+      "start": 550.32,
+      "duration": 4.16
+    },
+    {
+      "text": "it's not all bad. First of all, please",
+      "start": 552.24,
+      "duration": 3.52
+    },
+    {
+      "text": "don't shoot the messenger on this one.",
+      "start": 554.48,
+      "duration": 2.64
+    },
+    {
+      "text": "Hear me out. At this point, it's",
+      "start": 555.76,
+      "duration": 2.88
+    },
+    {
+      "text": "basically been confirmed that ads are",
+      "start": 557.12,
+      "duration": 3.68
+    },
+    {
+      "text": "coming to CHACHBT in 2026. So, instead",
+      "start": 558.64,
+      "duration": 4.24
+    },
+    {
+      "text": "of debating if it will happen, let's",
+      "start": 560.8,
+      "duration": 4.159
+    },
+    {
+      "text": "talk about the implications. Imagine a",
+      "start": 562.88,
+      "duration": 4.16
+    },
+    {
+      "text": "world where advertising never comes to",
+      "start": 564.959,
+      "duration": 4.56
+    },
+    {
+      "text": "chatbots. In that reality, the best AI",
+      "start": 567.04,
+      "duration": 4.64
+    },
+    {
+      "text": "models stay locked behind expensive",
+      "start": 569.519,
+      "duration": 4.481
+    },
+    {
+      "text": "subscriptions, creating a wealth gap,",
+      "start": 571.68,
+      "duration": 4.64
+    },
+    {
+      "text": "where only those who can pay have access",
+      "start": 574.0,
+      "duration": 4.72
+    },
+    {
+      "text": "to the best tools, while everyone else",
+      "start": 576.32,
+      "duration": 5.12
+    },
+    {
+      "text": "is left with an inferior version. Over",
+      "start": 578.72,
+      "duration": 4.48
+    },
+    {
+      "text": "time, this creates a compounding",
+      "start": 581.44,
+      "duration": 3.68
+    },
+    {
+      "text": "advantage. The wealthy use powerful AI",
+      "start": 583.2,
+      "duration": 3.84
+    },
+    {
+      "text": "to get wealthier while everyone else",
+      "start": 585.12,
+      "duration": 4.32
+    },
+    {
+      "text": "falls further behind. Kind of reminds me",
+      "start": 587.04,
+      "duration": 5.12
+    },
+    {
+      "text": "of something I just can't put my finger",
+      "start": 589.44,
+      "duration": 5.6
+    },
+    {
+      "text": "on. It think of it like YouTube. Imagine",
+      "start": 592.16,
+      "duration": 4.56
+    },
+    {
+      "text": "if you couldn't watch videos from the",
+      "start": 595.04,
+      "duration": 3.68
+    },
+    {
+      "text": "top creators unless you pay for YouTube",
+      "start": 596.72,
+      "duration": 4.0
+    },
+    {
+      "text": "Premium. That is where AI is headed",
+      "start": 598.72,
+      "duration": 4.0
+    },
+    {
+      "text": "without an ad supported tier. Now that",
+      "start": 600.72,
+      "duration": 3.92
+    },
+    {
+      "text": "we know ads are inevitable and that I'm",
+      "start": 602.72,
+      "duration": 3.679
+    },
+    {
+      "text": "not to blame for this, uh the thing to",
+      "start": 604.64,
+      "duration": 4.24
+    },
+    {
+      "text": "watch is what format those ads will take",
+      "start": 606.399,
+      "duration": 3.681
+    },
+    {
+      "text": "because it's going to look very",
+      "start": 608.88,
+      "duration": 3.12
+    },
+    {
+      "text": "different from the search ads we're",
+      "start": 610.08,
+      "duration": 3.84
+    },
+    {
+      "text": "currently used to. For example, industry",
+      "start": 612.0,
+      "duration": 4.32
+    },
+    {
+      "text": "expert Eric Sufer predicts chatbot ads",
+      "start": 613.92,
+      "duration": 4.159
+    },
+    {
+      "text": "will not be tied to our specific",
+      "start": 616.32,
+      "duration": 3.84
+    },
+    {
+      "text": "questions because if an AI recommended a",
+      "start": 618.079,
+      "duration": 3.921
+    },
+    {
+      "text": "product directly in its answer, we",
+      "start": 620.16,
+      "duration": 4.08
+    },
+    {
+      "text": "wouldn't trust it. Instead, the ad will",
+      "start": 622.0,
+      "duration": 3.76
+    },
+    {
+      "text": "probably look like standard display",
+      "start": 624.24,
+      "duration": 3.2
+    },
+    {
+      "text": "banners that stay separate from your",
+      "start": 625.76,
+      "duration": 3.68
+    },
+    {
+      "text": "actual conversation. Sort of like the",
+      "start": 627.44,
+      "duration": 4.079
+    },
+    {
+      "text": "banner ads we see on websites today. So,",
+      "start": 629.44,
+      "duration": 3.28
+    },
+    {
+      "text": "here's the bottom line. I don't like",
+      "start": 631.519,
+      "duration": 2.721
+    },
+    {
+      "text": "ads. You don't like ads. Nobody likes",
+      "start": 632.72,
+      "duration": 3.84
+    },
+    {
+      "text": "ads. But it's the ad revenue that makes",
+      "start": 634.24,
+      "duration": 4.48
+    },
+    {
+      "text": "it possible for companies to offer their",
+      "start": 636.56,
+      "duration": 4.16
+    },
+    {
+      "text": "best models to students in developing",
+      "start": 638.72,
+      "duration": 4.48
+    },
+    {
+      "text": "countries, nonprofits, and casual users",
+      "start": 640.72,
+      "duration": 4.799
+    },
+    {
+      "text": "who can't afford another monthly bill.",
+      "start": 643.2,
+      "duration": 4.079
+    },
+    {
+      "text": "Trend number six, from chatbots to",
+      "start": 645.519,
+      "duration": 3.601
+    },
+    {
+      "text": "robots. Everything we've covered so far",
+      "start": 647.279,
+      "duration": 4.321
+    },
+    {
+      "text": "has focused on AI as software. But in",
+      "start": 649.12,
+      "duration": 4.959
+    },
+    {
+      "text": "2026, that software is going to appear",
+      "start": 651.6,
+      "duration": 4.72
+    },
+    {
+      "text": "even more in the physical world as",
+      "start": 654.079,
+      "duration": 4.241
+    },
+    {
+      "text": "physical agents who can move on their",
+      "start": 656.32,
+      "duration": 4.0
+    },
+    {
+      "text": "own. The numbers show this is already",
+      "start": 658.32,
+      "duration": 4.24
+    },
+    {
+      "text": "happening. Exhibit A, Whimo. Their",
+      "start": 660.32,
+      "duration": 4.16
+    },
+    {
+      "text": "autonomous taxi service has now logged",
+      "start": 662.56,
+      "duration": 4.56
+    },
+    {
+      "text": "over 100 million fully autonomous miles",
+      "start": 664.48,
+      "duration": 6.16
+    },
+    {
+      "text": "and are involved in 96% fewer crashes",
+      "start": 667.12,
+      "duration": 6.32
+    },
+    {
+      "text": "than human drivers. Exhibit B, Amazon.",
+      "start": 670.64,
+      "duration": 4.72
+    },
+    {
+      "text": "Their AI enabled warehouse robots have",
+      "start": 673.44,
+      "duration": 4.079
+    },
+    {
+      "text": "cut the time from order to shipping by",
+      "start": 675.36,
+      "duration": 6.4
+    },
+    {
+      "text": "78%. Exhibit C, China. As early as 2023,",
+      "start": 677.519,
+      "duration": 6.0
+    },
+    {
+      "text": "China had deployed more industrial",
+      "start": 681.76,
+      "duration": 4.24
+    },
+    {
+      "text": "robots than the US and the rest of the",
+      "start": 683.519,
+      "duration": 5.041
+    },
+    {
+      "text": "world combined. Now, there is one caveat",
+      "start": 686.0,
+      "duration": 5.36
+    },
+    {
+      "text": "to all this. Humanoid robots are still",
+      "start": 688.56,
+      "duration": 6.279
+    },
+    {
+      "text": "mostly hype.",
+      "start": 691.36,
+      "duration": 3.479
+    },
+    {
+      "text": "MIT robotics professor Rodney Brooks",
+      "start": 697.76,
+      "duration": 4.319
+    },
+    {
+      "text": "estimates that we are at least 15 years",
+      "start": 699.839,
+      "duration": 4.321
+    },
+    {
+      "text": "away from seeing functional humanoid",
+      "start": 702.079,
+      "duration": 4.081
+    },
+    {
+      "text": "robots in our daily lives. The real",
+      "start": 704.16,
+      "duration": 4.32
+    },
+    {
+      "text": "shift is what analyst Mary Miker calls",
+      "start": 706.16,
+      "duration": 4.88
+    },
+    {
+      "text": "AI turning capital assets into software",
+      "start": 708.48,
+      "duration": 4.64
+    },
+    {
+      "text": "endpoints. And here's what that means in",
+      "start": 711.04,
+      "duration": 4.32
+    },
+    {
+      "text": "plain English. A car, a tractor, or",
+      "start": 713.12,
+      "duration": 3.92
+    },
+    {
+      "text": "warehouse robot used to be a",
+      "start": 715.36,
+      "duration": 4.4
+    },
+    {
+      "text": "depreciating asset, which means it loses",
+      "start": 717.04,
+      "duration": 5.12
+    },
+    {
+      "text": "value as time goes on. Right now, these",
+      "start": 719.76,
+      "duration": 4.16
+    },
+    {
+      "text": "machines are becoming platforms that",
+      "start": 722.16,
+      "duration": 3.6
+    },
+    {
+      "text": "improve over time through software",
+      "start": 723.92,
+      "duration": 4.479
+    },
+    {
+      "text": "updates, exactly like our phones. A",
+      "start": 725.76,
+      "duration": 5.28
+    },
+    {
+      "text": "Whimo car today is actually safer and",
+      "start": 728.399,
+      "duration": 5.361
+    },
+    {
+      "text": "smarter than it was 2 years ago, even if",
+      "start": 731.04,
+      "duration": 5.76
+    },
+    {
+      "text": "the physical vehicle hasn't changed. So,",
+      "start": 733.76,
+      "duration": 5.12
+    },
+    {
+      "text": "what does all this mean for us? In a",
+      "start": 736.8,
+      "duration": 3.76
+    },
+    {
+      "text": "nutshell, while the headlines are",
+      "start": 738.88,
+      "duration": 3.44
+    },
+    {
+      "text": "focusing on white collar disruption for",
+      "start": 740.56,
+      "duration": 3.92
+    },
+    {
+      "text": "now, this trend suggests that blue",
+      "start": 742.32,
+      "duration": 4.4
+    },
+    {
+      "text": "collar work will also be disrupted, but",
+      "start": 744.48,
+      "duration": 4.799
+    },
+    {
+      "text": "over a much longer time horizon. On a",
+      "start": 746.72,
+      "duration": 4.0
+    },
+    {
+      "text": "more positive note, I want to leave you",
+      "start": 749.279,
+      "duration": 3.12
+    },
+    {
+      "text": "with something Ethan Mollik said. He's a",
+      "start": 750.72,
+      "duration": 2.64
+    },
+    {
+      "text": "professor at Wharton, and this is",
+      "start": 752.399,
+      "duration": 2.401
+    },
+    {
+      "text": "something I really believe in. His",
+      "start": 753.36,
+      "duration": 3.279
+    },
+    {
+      "text": "research on what he calls the jagged",
+      "start": 754.8,
+      "duration": 4.479
+    },
+    {
+      "text": "frontier of AI shows that right now we",
+      "start": 756.639,
+      "duration": 5.521
+    },
+    {
+      "text": "are in a unique window where expertise",
+      "start": 759.279,
+      "duration": 5.281
+    },
+    {
+      "text": "is being reset thanks to AI. And",
+      "start": 762.16,
+      "duration": 4.56
+    },
+    {
+      "text": "precisely because things are messy and",
+      "start": 764.56,
+      "duration": 4.56
+    },
+    {
+      "text": "undefined right now, there are no",
+      "start": 766.72,
+      "duration": 4.64
+    },
+    {
+      "text": "experts who know everything already. You",
+      "start": 769.12,
+      "duration": 3.92
+    },
+    {
+      "text": "just need to be willing to learn faster",
+      "start": 771.36,
+      "duration": 4.24
+    },
+    {
+      "text": "than the person next to you. That is how",
+      "start": 773.04,
+      "duration": 4.799
+    },
+    {
+      "text": "you win in 2026.",
+      "start": 775.6,
+      "duration": 3.919
+    },
+    {
+      "text": "Stop worrying about developing a perfect",
+      "start": 777.839,
+      "duration": 4.641
+    },
+    {
+      "text": "plan to learn AI and instead just get",
+      "start": 779.519,
+      "duration": 4.32
+    },
+    {
+      "text": "started. I'd love to hear your thoughts",
+      "start": 782.48,
+      "duration": 2.72
+    },
+    {
+      "text": "on these trends, so drop them down",
+      "start": 783.839,
+      "duration": 3.041
+    },
+    {
+      "text": "below. Check out this practical guide on",
+      "start": 785.2,
+      "duration": 3.36
+    },
+    {
+      "text": "Google Gemini next. See you on the next",
+      "start": 786.88,
+      "duration": 4.0
+    },
+    {
+      "text": "video. In the meantime, have a great",
+      "start": 788.56,
+      "duration": 5.12
+    },
+    {
+      "text": "one.",
+      "start": 790.88,
+      "duration": 2.8
+    }
+  ]
+}
