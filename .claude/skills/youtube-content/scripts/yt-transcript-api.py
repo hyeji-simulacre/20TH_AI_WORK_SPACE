@@ -12,7 +12,6 @@ Usage:
 python yt-transcript-api.py "URL"
 """
 import sys
-import json
 import re
 import os
 from pathlib import Path
@@ -191,8 +190,8 @@ def get_transcript(video_id: str) -> Optional[Tuple[Any, Dict[str, Any]]]:
         print(f"❌Transcript Error: {e}")
         return None
 
-def save_to_json(data: Tuple[Any, Dict[str, Any]]):
-    """Saves transcript to JSON file."""
+def save_to_srt(data: Tuple[Any, Dict[str, Any]]):
+    """Saves transcript to SRT (SubRip) format."""
     # Determine repo root safely (workspace root)
     script_path = Path(__file__).resolve()
     repo_root = _find_repo_root(script_path.parent)
@@ -208,16 +207,14 @@ def save_to_json(data: Tuple[Any, Dict[str, Any]]):
             return None
 
     output_dir.mkdir(parents=True, exist_ok=True)
-    
+
     transcript_payload, meta = data
     video_id = meta.get("id", "")
 
     today = datetime.now().strftime("%Y%m%d")
-    filename = f"{today}_{video_id}_transcript.json"
+    filename = f"{today}_{video_id}_transcript.srt"
     save_path = output_dir / filename
-    
-    # Standardize format
-    
+
     # Handle FetchedTranscript object (Non-standard API return)
     transcript_items = []
     if hasattr(transcript_payload, 'snippets'):
@@ -231,38 +228,51 @@ def save_to_json(data: Tuple[Any, Dict[str, Any]]):
         except:
             pass
 
-    # Ensure data is a list of dicts
-    serializable_transcript = []
-    for item in transcript_items:
-        if isinstance(item, dict):
-            serializable_transcript.append(item)
-        else:
-            # If it's an object, try to convert it to dict or use __dict__
-            try:
-                # Try standard dict conversion first
-                serializable_transcript.append(dict(item))
-            except (ValueError, TypeError):
-                # Fallback: manual mapping if it has known attributes (FetchedTranscriptSnippet)
-                if hasattr(item, 'text') and hasattr(item, 'start') and hasattr(item, 'duration'):
-                    serializable_transcript.append({
-                        "text": item.text,
-                        "start": item.start,
-                        "duration": item.duration
-                    })
-                else:
-                    # Last resort: stringify
-                    serializable_transcript.append(str(item))
+    # Convert to SRT format
+    srt_lines = []
 
-    meta["transcript_count"] = len(serializable_transcript)
-    formatted_data = {
-        "meta": meta,
-        "transcript": serializable_transcript
-    }
+    def seconds_to_srt_time(seconds: float) -> str:
+        """Convert seconds to SRT time format (HH:MM:SS,mmm)"""
+        hours = int(seconds // 3600)
+        minutes = int((seconds % 3600) // 60)
+        secs = int(seconds % 60)
+        millis = int((seconds % 1) * 1000)
+        return f"{hours:02d}:{minutes:02d}:{secs:02d},{millis:03d}"
+
+    for index, item in enumerate(transcript_items, 1):
+        # Extract text, start time, and duration
+        text = None
+        start = 0
+        duration = 0
+
+        if isinstance(item, dict):
+            text = item.get("text", "").strip()
+            start = float(item.get("start", 0))
+            duration = float(item.get("duration", 0))
+        else:
+            # If it's an object, try to extract attributes
+            if hasattr(item, 'text') and hasattr(item, 'start') and hasattr(item, 'duration'):
+                text = getattr(item, 'text', "").strip()
+                start = float(getattr(item, 'start', 0))
+                duration = float(getattr(item, 'duration', 0))
+
+        if not text:
+            continue
+
+        end = start + duration
+        start_time = seconds_to_srt_time(start)
+        end_time = seconds_to_srt_time(end)
+
+        # Format: sequence number, timecode, text
+        srt_lines.append(str(index))
+        srt_lines.append(f"{start_time} --> {end_time}")
+        srt_lines.append(text)
+        srt_lines.append("")  # blank line between entries
 
     with open(save_path, "w", encoding="utf-8") as f:
-        json.dump(formatted_data, f, ensure_ascii=False, indent=2)
-    
-    print(f"💾Saved to: {save_path}")
+        f.write("\n".join(srt_lines))
+
+    print(f"💾 Saved to: {save_path}")
     return save_path
 
 def main():
@@ -280,7 +290,7 @@ def main():
     transcript = get_transcript(video_id)
     
     if transcript:
-        save_to_json(transcript)
+        save_to_srt(transcript)
     else:
         sys.exit(1)
 

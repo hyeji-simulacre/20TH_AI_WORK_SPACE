@@ -1,11 +1,11 @@
 ---
 name: youtube-content
-description: YouTube 영상의 자막을 JSON으로 추출하는 스킬.
+description: YouTube 영상의 자막을 SRT로 추출하는 스킬.
 ---
 
 # YouTube Content
 
-YouTube 영상의 자막을 JSON으로 저장합니다.
+YouTube 영상의 자막을 SRT로 저장합니다.
 
 ---
 
@@ -143,7 +143,7 @@ python .claude\skills\youtube-content\scripts\yt-transcript-api.py "https://www.
 실행 시 선택한 폴더에 저장됩니다:
 ```
 선택한_폴더/
-└── YYYYMMDD_<videoId>_transcript.json # 자막
+└── YYYYMMDD_<videoId>_transcript.srt # 자막
 ```
 
 환경변수로 기본 폴더를 설정할 수 있습니다 (`.env` 파일):
